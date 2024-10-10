@@ -7,9 +7,3 @@ ddg5366/roonserver:latest
 --platform=linux/arm/v7 emby/embyserver_arm32v7:latest
 --platform=linux/arm64 emby/embyserver_arm64v8:latest
 --platform=linux/amd64 emby/embyserver:latest
---platform=linux/arm64 hsuyelin/nas-tools:latest
---platform=linux/amd64 hsuyelin/nas-tools:latest
---platform=linux/amd64 amilys/embyserver:beta
---platform=linux/arm64 amilys/embyserver_arm64v8:latest
---platform=linux/arm64 linuxserver/qbittorrent:4.6.0
---platform=linux/amd64 linuxserver/qbittorrent:4.6.0
