@@ -3,4 +3,4 @@
 --platform=linux/arm64 linuxserver/qbittorrent:4.6.0
 --platform=linux/amd64 linuxserver/qbittorrent:4.6.0
 --platform=linux/arm64 hsuyelin/nas-tools:latest
---platform=linux/arm64 hsuyelin/nas-tools:latest
+--platform=linux/amd64 hsuyelin/nas-tools:latest
