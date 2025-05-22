@@ -11,3 +11,5 @@ ddg5366/roonserver:latest
 --platform=linux/amd64 jxxghp/moviepilot-v2:latest
 --platform=linux/arm64 bestzwei/libretv:latest
 --platform=linux/amd64 bestzwei/libretv:latest
+--platform=linux/arm64 hacn/hacn:latest
+--platform=linux/amd64 hacn/hacn:latest
