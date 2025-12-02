@@ -10,3 +10,4 @@ ddg5366/roonserver:latest
 --platform=linux/amd64 hacn/hacn:latest
 --platform=linux/arm64 cnk3x/xunlei:latest
 --platform=linux/amd64 cnk3x/xunlei:latest
+--platform=linux/amd64 steefdebruijn/docker-roonserver:latest
