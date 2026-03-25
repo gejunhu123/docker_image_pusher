@@ -16,3 +16,5 @@ xhongc/music_tag_web:latest
 registry.cn-hangzhou.aliyuncs.com/sqdockler/simple_sq_music_plus:latest
 registry.cn-hangzhou.aliyuncs.com/sqdockler/simple_sq_music_plus_web:latest
 mysql:5.7
+--platform=linux/arm64 searxng/searxng:latest
+--platform=linux/amd64 searxng/searxng:latest
