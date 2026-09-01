@@ -1,16 +1,12 @@
 ddg5366/roonserver:latest
 --platform=linux/arm/v6 nevinee/qbittorrent:4.6.0
 --platform=linux/amd64 nevinee/qbittorrent:4.6.0
---platform=linux/arm/v7 emby/embyserver_arm32v7:latest
 --platform=linux/arm64 emby/embyserver_arm64v8:latest
 --platform=linux/amd64 emby/embyserver:latest
 --platform=linux/arm64 jxxghp/moviepilot-v2:latest
 --platform=linux/amd64 jxxghp/moviepilot-v2:latest
---platform=linux/arm64 hacn/hacn:latest
---platform=linux/amd64 hacn/hacn:latest
 --platform=linux/arm64 cnk3x/xunlei:latest
 --platform=linux/amd64 cnk3x/xunlei:latest
---platform=linux/amd64 steefdebruijn/docker-roonserver:latest
 xhongc/music_tag_web:latest
 --platform=linux/amd64 develop767/migu_video:latest
 registry.cn-hangzhou.aliyuncs.com/sqdockler/simple_sq_music_plus:latest
